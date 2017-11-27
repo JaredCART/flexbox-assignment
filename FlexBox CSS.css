@@ -76,6 +76,7 @@
 
 .box10 {
     order: 10;
-    width: 33%;
 }
+@media screen and (max-width: 480px) {}
 
+@media screen and (max-width: 1024px) {}
